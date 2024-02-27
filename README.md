@@ -1,5 +1,7 @@
 # flutter_alarm_clock
 
+https://raw.githubusercontent.com/afzalali15/flutter_alarm_clock/master/flutter_clock_app.png
+
 A new Flutter project.
 
 ## Getting Started
